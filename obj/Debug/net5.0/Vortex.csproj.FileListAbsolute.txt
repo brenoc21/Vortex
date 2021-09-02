@@ -1,0 +1,16 @@
+D:\Trabalhos\Vortex\bin\Debug\net5.0\Vortex.exe
+D:\Trabalhos\Vortex\bin\Debug\net5.0\Vortex.deps.json
+D:\Trabalhos\Vortex\bin\Debug\net5.0\Vortex.runtimeconfig.json
+D:\Trabalhos\Vortex\bin\Debug\net5.0\Vortex.runtimeconfig.dev.json
+D:\Trabalhos\Vortex\bin\Debug\net5.0\Vortex.dll
+D:\Trabalhos\Vortex\bin\Debug\net5.0\ref\Vortex.dll
+D:\Trabalhos\Vortex\bin\Debug\net5.0\Vortex.pdb
+D:\Trabalhos\Vortex\obj\Debug\net5.0\Vortex.csproj.AssemblyReference.cache
+D:\Trabalhos\Vortex\obj\Debug\net5.0\Vortex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalhos\Vortex\obj\Debug\net5.0\Vortex.AssemblyInfoInputs.cache
+D:\Trabalhos\Vortex\obj\Debug\net5.0\Vortex.AssemblyInfo.cs
+D:\Trabalhos\Vortex\obj\Debug\net5.0\Vortex.csproj.CoreCompileInputs.cache
+D:\Trabalhos\Vortex\obj\Debug\net5.0\Vortex.dll
+D:\Trabalhos\Vortex\obj\Debug\net5.0\ref\Vortex.dll
+D:\Trabalhos\Vortex\obj\Debug\net5.0\Vortex.pdb
+D:\Trabalhos\Vortex\obj\Debug\net5.0\Vortex.genruntimeconfig.cache
